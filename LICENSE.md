@@ -1,0 +1,1 @@
+Las instrucciones, casos y plantillas de este repositorio: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/deed.es — Leo Vallmar, «Conversaciones que conectan» (https://github.com/vallmar-libros/conversaciones-que-conectan).
